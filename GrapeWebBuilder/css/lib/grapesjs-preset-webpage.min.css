@@ -1,0 +1,6 @@
+.gjs-one-bg{background-color:rgba(47,135,218)}.gjs-one-color{color:black}.gjs-one-color-h:hover{color:white}.gjs-two-bg{background-color:rgba(47,135,218,0.5)}.gjs-two-color{color:black}.gjs-two-color-h:hover{color:white}.gjs-three-bg{background-color:rgba(47,135,218,0.5)}.gjs-three-color{color:white}.gjs-three-color-h:hover{color:#804f7b}.gjs-four-bg{background-color:rgba(47,135,218,0.5)}.gjs-four-color{color:black}.gjs-four-color-h:hover{color:white}
+.fa-square-o::before{
+    content: "ALOYT";
+    FONT-SIZE:20PX;
+    font-weight: bold;
+}
